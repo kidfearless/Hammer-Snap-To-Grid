@@ -1,0 +1,9 @@
+C:\Users\pe\source\repos\SnapToGrid\SnapToGrid\bin\Release\SnapToGrid.exe.config
+C:\Users\pe\source\repos\SnapToGrid\SnapToGrid\bin\Release\SnapToGrid.exe
+C:\Users\pe\source\repos\SnapToGrid\SnapToGrid\bin\Release\SnapToGrid.pdb
+C:\Users\pe\source\repos\SnapToGrid\SnapToGrid\obj\Release\SnapToGrid.Form1.resources
+C:\Users\pe\source\repos\SnapToGrid\SnapToGrid\obj\Release\SnapToGrid.Properties.Resources.resources
+C:\Users\pe\source\repos\SnapToGrid\SnapToGrid\obj\Release\SnapToGrid.csproj.GenerateResource.cache
+C:\Users\pe\source\repos\SnapToGrid\SnapToGrid\obj\Release\SnapToGrid.csproj.CoreCompileInputs.cache
+C:\Users\pe\source\repos\SnapToGrid\SnapToGrid\obj\Release\SnapToGrid.exe
+C:\Users\pe\source\repos\SnapToGrid\SnapToGrid\obj\Release\SnapToGrid.pdb
